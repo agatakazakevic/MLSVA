@@ -58,7 +58,7 @@
 3. "In TSP context: how much does each location contribute to the total route cost?"
 
 **The Challenge:**
-"The problem? Computing exact Shapley values requires evaluating 2^n coalitions. For 20 locations, that's over 1 million coalition. For 30, over 1 billion. This becomes intractable quickly."
+"The problem? Computing exact Shapley values requires evaluating 2^n coalitions. For 20 locations, that's over 1 million coalitions. For 30, over 1 billion. This becomes intractable quickly."
 
 **Transition:**
 "This computational challenge is what motivates our machine learning approach."
